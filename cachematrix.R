@@ -54,10 +54,10 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-'''
-temp_matrix = c(2,4,6,8)
-dim(temp_matrix) = c(2,2)
-my_matrix<- makeCacheMatrix(temp_matrix) 
-my_inv <-cacheSolve(my_matrix)
-print(my_inv)
-'''
+
+#temp_matrix = c(2,4,6,8)
+#dim(temp_matrix) = c(2,2)
+#my_matrix<- makeCacheMatrix(temp_matrix) 
+#my_inv <-cacheSolve(my_matrix)
+#print(my_inv)
+
